@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "7e57c017-a5d2-2f1f-d6ad-11a08d1035af",
+  "instructors": {
+    "content": [
+      "c8bbd998-11c1-49f6-7a70-478618e931ca"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "58680865-1e45-ce83-4533-3e457e66082c",
+    "website": "18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004"
+  },
+  "course_title": "Advanced Analytic Methods in Science and Engineering",
+  "course_description": "Advanced Analytic Methods in Science and Engineering is a comprehensive treatment of the advanced methods of applied mathematics. It was designed to strengthen the mathematical abilities of graduate students and train them to think on their own.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.305",
+  "course_image_thumbnail": {
+    "content": "1b0c662c-ed02-e935-6989-c4149ed585ff",
+    "website": "18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "dd0f463a-0aef-4646-b5ad-147cc9f3724c",
+  "site_short_id": "18.305-fall-2004",
+  "site_url_path": "courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004",
+  "title": "Course Metadata"
+}
