@@ -5,6 +5,8 @@ description: Problem set with solutions. Problem sets are courtesy of Mustafa Sa
 file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/7f09dbda4d2ef9fe956aaf82c6b84485_hwIV1.pdf
 file_size: 102560
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Examination problems with solutions.
 file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/8d4b61c99ed57984f1834b695103bba9_305exam.pdf
 file_size: 46268
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
