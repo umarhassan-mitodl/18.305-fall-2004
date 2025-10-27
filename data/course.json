@@ -30,7 +30,6 @@
     "website": "18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004"
   },
   "course_title": "Advanced Analytic Methods in Science and Engineering",
-  "hide_download": true,
   "course_description": "Advanced Analytic Methods in Science and Engineering is a comprehensive treatment of the advanced methods of applied mathematics. It was designed to strengthen the mathematical abilities of graduate students and train them to think on their own.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "1b0c662c-ed02-e935-6989-c4149ed585ff",
     "website": "18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",

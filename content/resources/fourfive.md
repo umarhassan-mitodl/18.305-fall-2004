@@ -4,8 +4,6 @@ description: Lecture notes and example problems.
 file: /courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/a5943300068d5992266a2ee2cf1b7787_fourfive.pdf
 file_size: 67685
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
